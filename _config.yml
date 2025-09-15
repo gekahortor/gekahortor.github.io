@@ -1,1 +1,42 @@
+# Site settings
+title: "Godslove's Portfolio"
+description: "Urban analytics • Environmental modeling • Geospatial Data Science • GIS"
+baseurl: "" # Leave empty for user/organization site
+url: "https://gekahortor.github.io"
 
+# Author info
+author:
+  name: "Godslove Ahortor"
+  email: "gekahortor@gmail.com"
+  linkedin: "https://linkedin.com/in/yourprofile"
+  github: "https://github.com/gekahortor"
+
+# Theme
+theme: jekyll-theme-minimal
+
+# Navigation links (optional)
+nav_links:
+  - name: "Home"
+    url: "/"
+  - name: "Projects"
+    url: "/projects"
+  - name: "About"
+    url: "/about"
+  - name: "Contact"
+    url: "/contact"
+
+# Markdown & formatting
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# Plugins (optional, supported by GitHub Pages)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Exclude files from build
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
