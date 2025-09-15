@@ -1,4 +1,4 @@
-# 👋 Hi, I'm GEKAFLASH (Godslove Ahortor)!
+# 👋 Hi, I'm Godslove Ahortor (gekahortor)
 
 🌍 **Motivated GIS Analyst | Geography Graduate | Spatial Data Science Enthusiast**
 
@@ -14,7 +14,7 @@ I'm a passionate GIS Analyst with a strong academic background in Geography and 
 
 - **Programming:** Python, SQL
 - **Geospatial Analysis:** ArcGIS, QGIS (learning), spatial data manipulation
-- **Data Science Tools:** pandas, geopandas, Jupyter Notebooks
+- **Data Science Tools:** pandas, geopandas, matplotlib, seaborn,  Jupyter Notebooks, machine learning (statsmodels, scikit-learn)
 - **Other:** Data visualization, map making, spatial statistics
 
 ---
