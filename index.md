@@ -8,4 +8,4 @@ Welcome! I specialize in **urban analytics**, **environmental modeling**, and **
 - [🗣 Survey Perception Analysis](survey-analysis.md) — Clustering and interpreting Likert-scale data.
 
 ---
-📬 **Contact:** [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/gekahortor)
+📬 **Contact:** [LinkedIn]() | [GitHub](https://github.com/gekahortor)
