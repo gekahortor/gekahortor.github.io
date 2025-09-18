@@ -12,18 +12,9 @@ author:
   github: "https://github.com/gekahortor"
 
 # Theme
-theme: jekyll-theme-minimal
-
-# Navigation links (optional)
-nav_links:
-  - name: "Home"
-    url: "/"
-  - name: "Projects"
-    url: "/projects"
-  - name: "About"
-    url: "/about"
-  - name: "Contact"
-    url: "/contact"
+# theme: jekyll-theme-minimal
+gem "github-pages", group: :jekyll_plugins
+remote_theme: "mmistakes/so-simple-theme@3.2.0"
 
 # Markdown & formatting
 markdown: kramdown
@@ -31,9 +22,9 @@ kramdown:
   input: GFM
 
 # Plugins (optional, supported by GitHub Pages)
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+# plugins:
+#   - jekyll-feed
+#   - jekyll-seo-tag
 
 # Exclude files from build
 exclude:
