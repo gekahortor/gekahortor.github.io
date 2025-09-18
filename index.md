@@ -1,4 +1,4 @@
-# 🌍 Godslove's Geospatial Data Science Portfolio
+# 🌍 Portfolio of Godslove Ahortor
 
 Welcome! I specialize in **urban analytics**, **environmental modeling**, and **survey perception analysis** — blending rigorous, reproducible workflows with clear stakeholder communication.
 
