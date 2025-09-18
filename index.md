@@ -1,6 +1,4 @@
-# 🌍 Portfolio of Godslove Ahortor
 
-Welcome! I specialize in **urban analytics**, **environmental modeling**, and **survey perception analysis** — blending rigorous, reproducible workflows with clear stakeholder communication.
 
 ## Featured Projects
 - [🚲 Urban Mobility Analysis](urban-mobility.md) — Predicting bike-sharing demand with Folium maps.
