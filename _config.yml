@@ -1,18 +1,19 @@
 # Site settings
-title: "Godslove's Geospatial Data Science Portfolio"
-description: "Urban analytics • Environmental modeling • Survey perception analysis"
+title: "Portfolio of Godslove Ahortor"
+description: "Data Science and Analytics • GIS and Spatial Data Science • Environmental and Data Analytics "
 baseurl: "" # Leave empty for user/organization site
 url: "https://gekahortor.github.io"
 
 # Author info
 author:
-  name: "Godslove"
-  email: "your.email@example.com"
-  linkedin: "https://linkedin.com/in/yourprofile"
+  name: "Godslove Ahortor"
+  email: "gekahortor@gmail.com"
+  linkedin: "https://linkedin.com/in/godslove-ahortor-5b9b88296"
   github: "https://github.com/gekahortor"
 
 # Theme
 theme: jekyll-theme-cayman
+remote_theme: pages-themes/cayman@v0.2.0
 
 # Markdown & formatting
 markdown: kramdown
@@ -23,6 +24,7 @@ kramdown:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-remote-theme
 
 # Exclude files from the build
 exclude:
