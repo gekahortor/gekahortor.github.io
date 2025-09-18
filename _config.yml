@@ -1,32 +1,30 @@
 # Site settings
-title: "Godslove's Portfolio"
-description: "Urban analytics • Environmental modeling • Geospatial Data Science • GIS"
+title: "Godslove's Geospatial Data Science Portfolio"
+description: "Urban analytics • Environmental modeling • Survey perception analysis"
 baseurl: "" # Leave empty for user/organization site
 url: "https://gekahortor.github.io"
 
 # Author info
 author:
-  name: "Godslove Ahortor"
-  email: "gekahortor@gmail.com"
-  linkedin: "https://www.linkedin.com/in/godslove-ahortor-5b9b88296"
+  name: "Godslove"
+  email: "your.email@example.com"
+  linkedin: "https://linkedin.com/in/yourprofile"
   github: "https://github.com/gekahortor"
 
 # Theme
-# theme: jekyll-theme-minimal
-gem "github-pages", group: :jekyll_plugins
-remote_theme: "mmistakes/so-simple-theme@3.2.0"
+theme: jekyll-theme-cayman
 
 # Markdown & formatting
 markdown: kramdown
 kramdown:
   input: GFM
 
-# Plugins (optional, supported by GitHub Pages)
-# plugins:
-#   - jekyll-feed
-#   - jekyll-seo-tag
+# Plugins supported by GitHub Pages
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
 
-# Exclude files from build
+# Exclude files from the build
 exclude:
   - README.md
   - Gemfile
