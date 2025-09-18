@@ -1,4 +1,4 @@
-## *Godslove Ahortor*
+# *Godslove Ahortor*
 
 ## 👋 *Bio*
 
@@ -6,18 +6,18 @@ I'm a passionate GIS Analyst with a strong academic background in Geography and 
 
 ## 🛠️ *Top Skills*
 
-- **Programming:**
+### **Programming:**
 -  Python,
 -  SQL
   
-- **Geospatial Analysis:**
+### **Geospatial Analysis:**
 
 -  ArcGIS,
 -  QGIS,
 -  Geopython (Geopandas, Spatial Statistics, Rasterio, Folium)
 -  Google Earth Engine(Python API, geemap)
                           
-- **Data Science Tools:**
+### **Data Science Tools:**
   
 -  Data Wrangling and Manipulation (pandas, numpy) D
 -  ata Analysis (scipy, statsmodels),
