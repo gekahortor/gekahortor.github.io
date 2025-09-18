@@ -1,3 +1,4 @@
+![My profile photo](images/profile_pic.jpeg){: style="width:200px; border-radius:50%;" }
 ## *Godslove Ahortor*
 ## 👋 *Bio*
 
