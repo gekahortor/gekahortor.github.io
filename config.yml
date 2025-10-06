@@ -1,0 +1,16 @@
+title: "My Portfolio"
+description: "Interactive, reproducible workflows and projects"
+baseurl: "" # leave empty if deploying at root
+url: "https://yourusername.github.io" # replace with your site URL
+
+# Theme (optional, if you want to use a Jekyll theme)
+theme: minima
+
+# Exclude files you don’t want processed
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+
+# Markdown processor (still useful for other pages)
+markdown: kramdown
