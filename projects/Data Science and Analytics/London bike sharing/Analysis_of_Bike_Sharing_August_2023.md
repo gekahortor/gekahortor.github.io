@@ -74,10 +74,14 @@ The most popular origin-destination pair was the route from Hyde Park Corner, Hy
 
 Exploratory analysis identified peak demand hours between 17:00 and 19:00 (5 pm to 7 pm). Among weekdays, Tuesday, Wednesday, and Thursday exhibited the highest trip volumes, indicating mid-week concentration of cycling activity.
 
+<img src="images/Start_hour.png" alt="Start hour and demand per day" width="1000">
 ---
 
 The mean trip duration was 16 minutes for one-way trips and 24 minutes for round trips. Due to positively skewed distributions, median values were used for statistical comparisons: 13 minutes 17 seconds for one-way trips and 24 minutes 35 seconds for round trips. Using the conventional threshold of α = 0.05, the D'Agostino-Pearson normality test confirmed significant deviation from normality (p < 0.001), justifying the use of non-parametric statistical methods.
 
+<img src="images/Histogram.png" alt="Histogram" width="1000">
+
+<img src="images/Violin.png" alt="Violin" width="1000">
 ---
 
 A Mann-Whitney U test was conducted to determine whether the difference in median trip duration between trip types was statistically significant. The Mann-Whitney U test is a non-parametric test used to compare two independent groups when data violate normality assumptions (Mann-Whitney U test and t-test - Robert Wall Emerson, 2023). The test yielded a U-statistic of 15,025,400,453 and a p-value < 0.001, confirming that the difference in median duration between one-way and round trips was statistically significant.
@@ -96,6 +100,7 @@ A Chi-square test of independence was conducted to determine whether week type (
 
 An exploratory analysis was conducted to identify peak demand hours for each day of the week. Red bars indicate the hours with the highest demand.
 
+<img src="images/Peak_hour.png" alt="peak hour" width="1000">
 ---
 
 Using the conventional threshold of α = 0.05, p-values less than 0.05 indicate statistically significant differences between days. the Kruskal-Wallis–Wallis test was conducted to determine whether peak hour demand differed significantly across days in the bike-sharing dataset. The results (H = 284.03, p < 0.001) indicate a statistically significant difference in median peak hour demand among the days of the week. This means that at least one day shows a different demand distribution compared to the others, suggesting temporal variability in bike usage patterns across days.
@@ -142,6 +147,7 @@ These findings provide actionable insights for urban planners to enhance cycling
 
 
 ---
+
 
 
 
