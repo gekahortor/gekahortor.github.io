@@ -81,6 +81,8 @@ The mean trip duration was 16 minutes for one-way trips and 24 minutes for round
 
 <img src="images/Histogram.png" alt="Histogram" width="1000">
 
+---
+
 <img src="images/Violin.png" alt="Violin" width="1000">
 ---
 
@@ -147,6 +149,7 @@ These findings provide actionable insights for urban planners to enhance cycling
 
 
 ---
+
 
 
 
