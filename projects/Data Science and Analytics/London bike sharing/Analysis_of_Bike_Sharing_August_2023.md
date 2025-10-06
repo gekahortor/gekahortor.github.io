@@ -70,7 +70,7 @@ The most popular origin-destination pair was the route from Hyde Park Corner, Hy
 | Hyde Park Corner, Hyde Park → Triangle Car Park, Hyde Park | 294 |
 ---
 
-![Origin and Destination Stations]("C:\Users\DELL\Documents\Website portfolio\projects\Data Science and Analytics\London bike sharing\Start_end_station.png")
+![Origin and Destination Stations]("projects/Data Science and Analytics/London bike sharing/images/Start_end_station.png")
 
 Exploratory analysis identified peak demand hours between 17:00 and 19:00 (5 pm to 7 pm). Among weekdays, Tuesday, Wednesday, and Thursday exhibited the highest trip volumes, indicating mid-week concentration of cycling activity.
 
@@ -142,5 +142,6 @@ These findings provide actionable insights for urban planners to enhance cycling
 
 
 ---
+
 
 
